@@ -12,7 +12,8 @@ Inspired by YouTube, the app provides a fully responsive UI, secure login, dynam
 - Protected routes: only authenticated users can access Home, Trending, Gaming, Saved Videos, and Video Details.  
 - Redirects unauthenticated users to Login.  
 - Prevents logged-in users from visiting Login again.  
-- Password visibility toggle.  
+- Password visibility toggle.
+- (Demo Credentials — username: rahul | password: rahul@2021)
 
 ### Home Route  
 - Fetch videos from `homeVideosApiUrl`.  
